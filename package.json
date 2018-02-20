@@ -4,8 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "eslint . --ext .js && jasmine",
-    "start": "node index.js"
+    "test": "eslint . --ext .js && jasmine"
   },
   "author": "",
   "license": "UNLICENSED",
