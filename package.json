@@ -1,0 +1,22 @@
+{
+  "name": "tree-dataset-exercise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "eslint . --ext .js && jasmine",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "eslint": "^4.18.0",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.8.0",
+    "eslint-plugin-jasmine": "^2.9.2",
+    "jasmine": "^3.0.0"
+  },
+  "dependencies": {
+    "argparse": "^1.0.10"
+  }
+}
